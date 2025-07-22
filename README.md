@@ -2,9 +2,9 @@
 <h3 align="center">AI/ML Engineer | Blockchain Explorer | Creative Technologist</h3>
 
 <p align="center">
-  <a href="https://github.com/your-username"><img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /></a>
-  <a href="https://linkedin.com/in/your-linkedin-id"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" /></a>
-  <a href="https://leetcode.com/your-leetcode-id"><img src="https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode" /></a>
+  <a href="https://github.com/Gopika-9266"><img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /></a>
+  <a href="https://www.linkedin.com/in/gopika-r-bba415321/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" /></a>
+  <a href="https://leetcode.com/u/Gopika-66/"><img src="https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode" /></a>
 </p>
 
 ---
