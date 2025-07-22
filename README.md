@@ -52,7 +52,7 @@ Developed **YoCop**, an AI and blockchain-powered solution for modernizing law e
 
 ### 🧩 Problem Solving
 
-[![LeetCode Stats](https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode)](https://leetcode.com/your-leetcode-id)  
+[![LeetCode Stats](https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode)](https://leetcode.com/u/Gopika-66/) 
 🎯 Currently solving Data Structures and Algorithms problems with a focus on system design and AI logic.
 
 ---
