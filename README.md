@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gopika R</h1>
-<h3 align="center">AI/ML Engineer | Blockchain Explorer | Creative Technologist</h3>
+<h3 align="center">AI/ML Engineer | Creative Technologist | Shaping the Future with Machine Learning</h3>
 
 <p align="center">
   <a href="https://github.com/Gopika-9266"><img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /></a>
