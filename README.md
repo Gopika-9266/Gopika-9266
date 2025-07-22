@@ -70,4 +70,4 @@ Developed **YoCop**, an AI and blockchain-powered solution for modernizing law e
 ### ⚡ Fun Fact
 > "Smart models make predictions, smart data makes progress."
 
--
+
