@@ -57,7 +57,7 @@ Developed **YoCop**, an AI and blockchain-powered solution for modernizing law e
 
 ---
 
-### 🔭 2025 Goals
+### 🔭 2026 Goals
 
 - 🚀 Publish an AI-powered web app (SaaS)
 - 📖 Learn advanced Reinforcement Learning & LLMs
