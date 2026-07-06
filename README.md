@@ -124,9 +124,6 @@ https://linkedin.com/in/gopika-r
 **GitHub:**  
 https://github.com/Gopika-9266
 
-**Email:**  
-gopikarue02@gmail.com
-
 ---
 
 ### Thanks for visiting my profile! ⭐
