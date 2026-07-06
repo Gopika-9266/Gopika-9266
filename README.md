@@ -1,73 +1,134 @@
-<h1 align="center">Hi 👋, I'm Gopika R</h1>
-<h3 align="center">AI/ML Engineer | Creative Technologist | Shaping the Future with Machine Learning</h3>
+# Hi 👋, I'm Gopika R
 
-<p align="center">
-  <a href="https://github.com/Gopika-9266"><img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /></a>
-  <a href="https://www.linkedin.com/in/gopika-r-bba415321/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" /></a>
-  <a href="https://leetcode.com/u/Gopika-66/"><img src="https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode" /></a>
-</p>
+### Software Engineer | AI/ML Enthusiast | Data Engineering
+
+I'm passionate about software engineering and enjoy building efficient, scalable, and data-driven applications. My interests include backend development, data engineering, and machine learning, and I'm always exploring new technologies to strengthen my engineering skills.
 
 ---
 
-### 🧠 Profile Summary
+## 👩‍💻 About Me
 
-A dedicated and curious Artificial Intelligence and Machine Learning student with a strong background in mathematics, programming, and data analysis. Proficient in **Python**, **TensorFlow**, and machine learning frameworks, with experience in building predictive models and neural networks. Passionate about applying AI to solve real-world problems in healthcare, finance, automation, and sustainability.
-
----
-
-### 🚀 Projects
-
-#### 🔬 Microplastic Detection using Detectron 2
-Designed and implemented a deep learning model using Detectron2 to accurately detect and classify microplastics in environmental images.  
-💡 Techniques: dataset collection, annotation, transfer learning, fine-tuning  
-🌿 Result: Improved accuracy and efficiency in environmental monitoring through AI.
-
-
-#### 👮‍♂️ YoCop – AI and Blockchain-powered Police Management System
-Developed **YoCop**, an AI and blockchain-powered solution for modernizing law enforcement systems.  
-🔗 Used smart contracts, ML prediction models, and immutable blockchain logs to ensure security, transparency, and proactive crime prevention.
+- 🎓 B.Tech in Artificial Intelligence & Machine Learning 
+- 💻 Interested in Software Engineering, Data Engineering, Backend Development, and Machine Learning
+- 🌱 Currently learning Docker, System Design, and Cloud Technologies
+- 🚀 Looking for Software Engineer and Data Engineer opportunities
 
 ---
 
-### 🧰 Skills
+## 🛠️ Technical Skills
 
-#### 💻 Programming Languages  
-`Java` • `C` • `Python`
+### Programming Languages
+- Java
+- Python
+- SQL
+- C
 
-#### 🤖 AI/ML Technologies  
-`Computer Vision` • `Machine Learning` • `Deep Learning (CNN)`
+### Software Development
+- Object-Oriented Programming (OOP)
+- Data Structures & Algorithms
+- REST APIs
+- Git & GitHub
 
-#### 🔐 Blockchain  
-`Smart Contracts` • `Security-focused Blockchain Systems`
+### Data Engineering
+- Apache Airflow
+- ETL Pipelines
+- PostgreSQL
+- MySQL
+- Pandas
 
-#### 📚 Frameworks & Libraries  
-`Detectron2` • `PyTorch` • `TensorFlow`
+### Machine Learning
+- Scikit-Learn
+- OpenCV
+- Detectron2
+- Exploratory Data Analysis
+- Deep Learning
 
-#### 🧪 Tools & Platforms  
-`Git` • `GitHub` • `Postman` • `Visual Studio Code` • `Jupyter Notebook`
+### Networking
+- TCP/IP
+- DNS
+- DHCP
+- OSI Model
+- Cisco Packet Tracer
+
+### Tools
+- Git
+- GitHub
+- Linux
+- Jupyter Notebook
+- VS Code
 
 ---
 
+## 📌 Featured Projects
 
+### 📊 GitHub Analytics Data Pipeline
+Built an automated ETL pipeline to extract repository and contributor data from the GitHub REST API, transform it into a structured format, and store it in PostgreSQL. Automated workflow scheduling and monitoring using Apache Airflow.
 
-### 🧩 Problem Solving
-
-[![LeetCode Stats](https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode)](https://leetcode.com/u/Gopika-66/) 
-🎯 Currently solving Data Structures and Algorithms problems with a focus on system design and AI logic.
-
----
-
-### 🔭 2026 Goals
-
-- 🚀 Publish an AI-powered web app (SaaS)
-- 📖 Learn advanced Reinforcement Learning & LLMs
-- 💻 Contribute to impactful open-source AI + blockchain projects
-- 🧠 Solve 500+ LeetCode problems
-- 🧪 Research: Apply AI to environmental and public safety domains
+**Tech :** `Python` • `SQL` • `Apache Airflow` • `PostgreSQL` • `GitHub REST API`
 
 ---
 
-### ⚡ Fun Fact
-> "Smart models make predictions, smart data makes progress."
+### 🛒 E-Commerce Sales ETL Pipeline
+Designed and implemented an end-to-end ETL pipeline to clean, transform, validate, and load e-commerce sales data into MySQL for efficient querying and reporting.
+
+**Tech :** `Python` • `SQL` • `MySQL` • `Pandas`
+
+---
+
+### 🕵️ Forensic Face Sketch Matching
+Developed a forensic face sketch matching system using Siamese Neural Networks to compare facial sketches with real images. Applied feature extraction, preprocessing, and data augmentation techniques to improve matching performance.
+
+**Tech :** `Python` • `Siamese Neural Networks` • `Computer Vision` • `Deep Learning`
+
+---
+
+### 🔬 Microplastic Detection
+Built an image-based object detection system using Detectron2 to identify microplastics in environmental samples. Performed dataset preparation, annotation, preprocessing, and model optimization to improve detection accuracy.
+
+**Tech :** `Python` • `Detectron2` • `Computer Vision`
+
+---
+
+### 🍽️ Automated Food Recognition & Calorie Estimation
+Developed a deep learning-based computer vision system to recognize food items from images and estimate calorie values. Applied image preprocessing and model validation techniques to improve prediction accuracy.
+
+**Tech :** `Python` • `Deep Learning` • `Computer Vision` • `OpenCV`
 
 
+
+# 📚 Certifications
+
+- Software Engineering Job Simulation
+- Data Analytics Job Simulation
+- Machine Learning Foundations
+- Data Science Ethics
+
+---
+
+# 🎯 Current Focus
+
+- Software Engineering
+- Backend Development
+- Data Engineering
+- System Design
+- Cloud Computing
+- Open Source Contributions
+
+---
+
+# 📫 Connect With Me
+
+**LinkedIn:**  
+https://linkedin.com/in/gopika-r
+
+**GitHub:**  
+https://github.com/Gopika-9266
+
+**Email:**  
+gopikarue02@gmail.com
+
+---
+
+### Thanks for visiting my profile! ⭐
+
+I'm always open to learning, collaborating, and building impactful software projects.
